@@ -12,16 +12,16 @@ export async function fillDocxTemplate(
 ): Promise<Buffer> {
   try {
     // Scarica il template da Supabase Storage
-    const { data: templateData, error } = await supabaseAdmin.storage
+    const { data: templateBlob, error } = await supabaseAdmin.storage
       .from('documents')
       .download(`templates/${templateFileName}`);
 
-    if (error || !templateData) {
+    if (error || !templateBlob) {
       throw new Error(`Failed to download template: ${error?.message || 'Template not found'}`);
     }
 
     // Converte il blob in buffer
-    const content = Buffer.from(await templateData.arrayBuffer());
+    const content = Buffer.from(await templateBlob.arrayBuffer());
 
     // Carica il file DOCX
     const zip = new PizZip(content);
