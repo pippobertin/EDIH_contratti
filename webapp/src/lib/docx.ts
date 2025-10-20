@@ -234,14 +234,13 @@ function formatDate(dateString: string): string {
  * Mappa dei nomi file template per tipo di servizio
  */
 export const TEMPLATE_FILES = {
-  formazione: 'Modulistica EDIH4Marche -  formazione.docx',
-  assessment: 'Modulistica EDIH4Marche - Servizio Assessment.docx',
+  formazione: 'Modulistica_EDIH4Marche_formazione.docx',
+  assessment: 'Modulistica_EDIH4Marche_Assessment.docx',
   allegati: {
-    dsan_impresa: 'Allegato n. 09a_DSAN Impresa.docx',
-    dsan_conflitto_interesse:
-      'Allegato n. 09b_DSAN Assenza di conflitto interesse_Titolare effettivo.docx',
-    titolarita_effettiva: 'Allegato n. 10a_Comunicazione dei dati sulla Titolarità effettiva.docx',
-    dsan_regolare_esecuzione: 'Dsan regolare esecuzione.docx',
+    dsan_impresa: 'Allegato_09a_DSAN_Impresa.docx',
+    dsan_conflitto_interesse: 'Allegato_09b_DSAN_Assenza_conflitto_interesse.docx',
+    titolarita_effettiva: 'Allegato_10a_Comunicazione_titolarita_effettiva.docx',
+    dsan_regolare_esecuzione: 'DSAN_regolare_esecuzione.docx',
   },
 };
 
