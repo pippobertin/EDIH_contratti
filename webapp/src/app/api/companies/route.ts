@@ -51,7 +51,7 @@ export async function POST(request: NextRequest) {
 // GET: Ottieni tutte le aziende
 export async function GET(request: NextRequest) {
   try {
-    const { data, error } = await supabase
+    const { data, error } = await supabaseAdmin
       .from('edih_companies')
       .select('*')
       .order('created_at', { ascending: false });
