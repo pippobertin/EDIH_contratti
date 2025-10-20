@@ -35,7 +35,7 @@ next-env.d.ts
 
 # Generated documents (example outputs)
 *.docx
-!template/*.docx
+!webapp/template/*.docx
 
 # Claude artifacts
 .claude/
