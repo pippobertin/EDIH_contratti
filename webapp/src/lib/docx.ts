@@ -15,7 +15,6 @@ export async function fillDocxTemplate(
     // Percorso del template
     const templatePath = path.join(
       process.cwd(),
-      '..',
       'template',
       templateFileName
     );
