@@ -1,0 +1,41 @@
+# Node modules
+node_modules/
+webapp/node_modules/
+
+# Next.js
+webapp/.next/
+webapp/out/
+
+# Environment variables
+webapp/.env
+webapp/.env*.local
+.env
+.env*.local
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+*.pem
+
+# Build files
+webapp/build/
+webapp/.vercel/
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# Temporary files
+*.tmp
+*.temp
+
+# Generated documents (example outputs)
+*.docx
+!template/*.docx
+
+# Claude artifacts
+.claude/

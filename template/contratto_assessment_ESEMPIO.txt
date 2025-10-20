@@ -1,0 +1,139 @@
+CONTRATTO DI ASSESSMENT MATURITÀ DIGITALE
+Servizi EDIH - Progetto Finanziato UE
+
+========================================
+
+CONTRATTO N. [NUMERO_CONTRATTO]
+Data: [DATA_CONTRATTO]
+
+TRA
+
+[DENOMINAZIONE]
+Con sede legale in [SEDE_LEGALE]
+Partita IVA: [PARTITA_IVA]
+Codice Fiscale: [CODICE_FISCALE]
+Rappresentata dal Legale Rappresentante: [LEGALE_RAPPRESENTANTE]
+Titolare Effettivo: [TITOLARE_EFFETTIVO]
+
+(di seguito "Cliente")
+
+E
+
+EDIH - European Digital Innovation Hub
+[Indirizzo EDIH]
+P.IVA: [P.IVA EDIH]
+
+(di seguito "Fornitore")
+
+========================================
+
+PREMESSO CHE
+
+- Il presente contratto è parte del programma di digitalizzazione finanziato dall'Unione Europea attraverso il progetto EDIH (European Digital Innovation Hub);
+- Il Cliente ha richiesto un servizio di valutazione della propria maturità digitale aziendale;
+- Il Fornitore eroga servizi di assessment e consulenza per la trasformazione digitale delle imprese;
+
+SI CONVIENE E SI STIPULA QUANTO SEGUE:
+
+ARTICOLO 1 - OGGETTO DEL CONTRATTO
+
+Il Fornitore si impegna ad effettuare per il Cliente un assessment completo della maturità digitale aziendale, comprendente:
+
+- Analisi dello stato attuale di digitalizzazione
+- Valutazione delle competenze digitali interne
+- Mappatura dei processi digitalizzabili
+- Identificazione delle opportunità di miglioramento
+- Roadmap di trasformazione digitale personalizzata
+
+Durata del servizio: [DURATA_ORE] ore
+Modalità: [MODALITA_EROGAZIONE]
+Periodo: dal [DATA_INIZIO] al [DATA_FINE]
+
+ARTICOLO 2 - OBBLIGHI DEL FORNITORE
+
+Il Fornitore si impegna a:
+a) Condurre interviste con il management e il personale chiave
+b) Analizzare i sistemi e i processi aziendali attuali
+c) Redigere un report dettagliato con i risultati dell'assessment
+d) Presentare una roadmap personalizzata di trasformazione digitale
+e) Fornire raccomandazioni operative e strategiche
+f) Mantenere la massima riservatezza sui dati aziendali
+
+ARTICOLO 3 - OBBLIGHI DEL CLIENTE
+
+Il Cliente si impegna a:
+a) Fornire accesso alle informazioni e ai dati necessari per l'assessment
+b) Rendere disponibili i propri collaboratori per interviste e incontri
+c) Designare un referente aziendale per il coordinamento delle attività
+d) Fornire documentazione tecnica e organizzativa richiesta
+
+ARTICOLO 4 - CORRISPETTIVO E MODALITÀ DI PAGAMENTO
+
+Il servizio oggetto del presente contratto è interamente finanziato dal progetto EDIH nell'ambito dei fondi UE.
+Nessun corrispettivo è dovuto dal Cliente al Fornitore.
+
+ARTICOLO 5 - DATI AZIENDALI
+
+Dati estratti dalla visura camerale:
+- Forma giuridica: [FORMA_GIURIDICA]
+- Capitale sociale: [CAPITALE_SOCIALE]
+- Data costituzione: [DATA_COSTITUZIONE]
+- Codice ATECO: [CODICE_ATECO]
+- Oggetto sociale: [OGGETTO_SOCIALE]
+
+Dati bilancio (anno [ANNO_BILANCIO]):
+- Fatturato: EUR [FATTURATO]
+- Utile/Perdita: EUR [UTILE_PERDITA]
+- Totale attivo: EUR [TOTALE_ATTIVO]
+- Patrimonio netto: EUR [PATRIMONIO_NETTO]
+- Numero dipendenti: [NUMERO_DIPENDENTI]
+
+ARTICOLO 6 - DELIVERABLE
+
+Al termine dell'assessment, il Fornitore consegnerà al Cliente:
+1. Report di assessment completo (formato digitale)
+2. Roadmap di trasformazione digitale personalizzata
+3. Presentazione executive summary
+4. Raccomandazioni operative prioritizzate
+
+ARTICOLO 7 - RISERVATEZZA
+
+Le parti si impegnano reciprocamente a mantenere la massima riservatezza su tutte le informazioni scambiate nell'ambito del presente contratto.
+
+ARTICOLO 8 - PRIVACY E TRATTAMENTO DATI
+
+Il trattamento dei dati personali avverrà in conformità al GDPR (Regolamento UE 2016/679) e alla normativa nazionale applicabile.
+
+ARTICOLO 9 - PROPRIETÀ INTELLETTUALE
+
+Tutti i deliverable prodotti nell'ambito del presente contratto saranno di proprietà del Cliente.
+
+ARTICOLO 10 - RISOLUZIONE
+
+Il presente contratto potrà essere risolto in caso di inadempimento grave delle obbligazioni assunte da una delle parti, previa comunicazione scritta con preavviso di 15 giorni.
+
+ARTICOLO 11 - FORO COMPETENTE
+
+Per qualsiasi controversia è competente il Foro di [FORO_COMPETENTE].
+
+========================================
+
+Letto, confermato e sottoscritto
+
+Per il Cliente
+[LEGALE_RAPPRESENTANTE]
+_________________________
+Data: _________________
+
+Per il Fornitore
+_________________________
+Data: _________________
+
+========================================
+Documento generato automaticamente tramite AI
+Progetto EDIH - Finanziato dall'Unione Europea
+
+ALLEGATI:
+- Informativa Privacy (All. A)
+- Dichiarazione titolare effettivo (All. B)
+- Modulo consenso trattamento dati (All. C)
