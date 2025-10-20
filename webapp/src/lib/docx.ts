@@ -1,7 +1,6 @@
 import Docxtemplater from 'docxtemplater';
 import PizZip from 'pizzip';
-import fs from 'fs/promises';
-import path from 'path';
+import { supabaseAdmin } from './supabase';
 
 /**
  * Compila un template DOCX con i dati forniti
@@ -12,15 +11,17 @@ export async function fillDocxTemplate(
   data: Record<string, any>
 ): Promise<Buffer> {
   try {
-    // Percorso del template
-    const templatePath = path.join(
-      process.cwd(),
-      'template',
-      templateFileName
-    );
+    // Scarica il template da Supabase Storage
+    const { data: templateData, error } = await supabaseAdmin.storage
+      .from('documents')
+      .download(`templates/${templateFileName}`);
 
-    // Leggi il template come buffer
-    const content = await fs.readFile(templatePath);
+    if (error || !templateData) {
+      throw new Error(`Failed to download template: ${error?.message || 'Template not found'}`);
+    }
+
+    // Converte il blob in buffer
+    const content = Buffer.from(await templateData.arrayBuffer());
 
     // Carica il file DOCX
     const zip = new PizZip(content);

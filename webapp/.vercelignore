@@ -1,0 +1,5 @@
+# Exclude template DOCX files from deployment (now stored in Supabase Storage)
+template/
+
+# Exclude upload script
+upload-templates.js
